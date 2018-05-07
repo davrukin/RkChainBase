@@ -1,0 +1,4 @@
+package chains
+
+class RkChainMutable {
+}
